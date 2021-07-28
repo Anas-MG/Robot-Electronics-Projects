@@ -1,11 +1,11 @@
 ## Arduino circuit for Controlling Four servos , Two with joystick 
 ## Setup:
 - #### Servos: 
-- - ##### "base" servo mg995, "shoulder" servo mg995, "elbow" servo mg995, "wrist" servo g9
+- - ###### "base" servo mg995, "shoulder" servo mg995, "elbow" servo mg995, "wrist" servo g9
 - #### Servos Pins: 
 - - ###### Pin9,Pin10, Pin 11,Pin 12 
 - #### Joystick: 
-- - simple joystick, comes with the Arduino kit connected to the A0 and A1 as 'y' and 'x' axis
+- - ###### simple joystick, comes with the Arduino kit connected to the A0 and A1 as 'y' and 'x' axis
 - #### Power: 
 - - ###### 5V DC voltage from Arduino 
 #
