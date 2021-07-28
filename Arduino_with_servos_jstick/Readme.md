@@ -9,7 +9,7 @@
 - #### joystick_control_Recording.mp4
  > ##### Recording for controlling the (shoulder & elbow ) servos with joystick
 - #### servo_jstick
-> ##### contains the main sketch that i've coded to set the servos to 90 degrees (except base) and for the joystick to control (elbow & shoulder) servos
+> ##### contains the main sketch that i've wrote to program the servos to 90 degrees (except base), and to control (elbow & shoulder) servos with joystick 
 
 
   
