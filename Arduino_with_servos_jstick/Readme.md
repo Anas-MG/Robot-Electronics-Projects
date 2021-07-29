@@ -4,8 +4,6 @@
 - - ###### "base" servo mg995, "shoulder" servo mg995, "elbow" servo mg995, "wrist" servo g9
  #### Joystick: 
 - - ###### simple joystick, comes with the Arduino kit connected to the A0 and A1 as 'y' and 'x' axis
- #### Power: 
-- - ###### 5V DC voltage from Arduino 
 #
 ![servos_with_joystick](https://user-images.githubusercontent.com/49666154/127266428-9e9b8bb4-2fd6-4ac9-b997-314c87fe5f0f.jpeg)
 #
