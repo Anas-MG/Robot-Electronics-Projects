@@ -14,10 +14,10 @@
 
 
 ## Understanding Ultrasonic
-##### To understand how the robot avoid obstacles we need to understand how Ultrasonic sensors works , Ultrasonic is small sensor that measures distance by using ultrasonic waves. (high-frequency sound 40 kHz),
+
 <img src="https://user-images.githubusercontent.com/49666154/128789780-a4d26741-6375-4f4c-9cf5-43eacd2d3353.jpg"  width='600'>
 
-##### The sensor's logic starts with the sensor head (trig pin) emits an ultrasonic wave , If it hits an object The ultrasound receiver (echo pin) receives the reflected wave. Then it measures the distance to the target by measuring the time between the emission and reception.
+##### To understand how the robot avoid obstacles we need to understand how Ultrasonic sensors works , Ultrasonic is small sensor that measures distance by using ultrasonic waves. (high-frequency sound 40 kHz), The sensor's logic starts with the sensor head (trig pin) emits an ultrasonic wave , If it hits an object The ultrasound receiver (echo pin) receives the reflected wave. Then it measures the distance to the target by measuring the time between the emission and reception.
 
 #### Module US-100 
 #
