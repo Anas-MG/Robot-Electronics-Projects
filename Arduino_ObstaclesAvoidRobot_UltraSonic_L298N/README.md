@@ -1,5 +1,5 @@
 ## Obstacles Avoiding Robot 
-<img src="https://user-images.githubusercontent.com/49666154/128777013-b7dc23f8-97eb-4035-8ff5-7018e988c99e.jpeg" width="600px">
+<img src="https://user-images.githubusercontent.com/49666154/128777013-b7dc23f8-97eb-4035-8ff5-7018e988c99e.jpeg" width="800px">
 
 ##### This Robot is an Arduino based robot that uses Ultrasonic sensor to avoid obstacles in range. when the robot faces an obstacle in range , automatically it'll stop moving forward and takes a step back. Then it looks left & right and starts  moving to the farest side, The best use of this robot is navigating in an unknown enviroment , cleaning.
 
@@ -14,18 +14,17 @@
 
 
 ## Understanding Ultrasonic
-##### To understand how the robot avoid obstacles we need to understand how Ultrasonic sensors works firstly, In general Ultrasonic is small sensor that measures distance by using ultrasonic waves. (high-frequency sound 40 kHz),
+##### To understand how the robot avoid obstacles we need to understand how Ultrasonic sensors works , Ultrasonic is small sensor that measures distance by using ultrasonic waves. (high-frequency sound 40 kHz),
 <img src="https://user-images.githubusercontent.com/49666154/128789780-a4d26741-6375-4f4c-9cf5-43eacd2d3353.jpg"  width='600'>
 
-##### In details the sensor's logic is that the sensor head (trig pin) emits an ultrasonic wave , If it hits an object The ultrasound receiver (echo pin) receives the reflected wave. Then it measures the distance to the target by measuring the time between the emission and reception.
+##### The sensor's logic starts with the sensor head (trig pin) emits an ultrasonic wave , If it hits an object The ultrasound receiver (echo pin) receives the reflected wave. Then it measures the distance to the target by measuring the time between the emission and reception.
 
 ### Module US-100 
 #
 <img src="https://user-images.githubusercontent.com/49666154/128775606-cf680125-5f0a-4e25-acf3-aed08514173a.jpeg" width="480px" ><img src="https://user-images.githubusercontent.com/49666154/128776680-0c556eb4-132e-44ec-9fb7-a18aa24b4692.jpeg" width="201.5px" >
 
 ##### It's compact, high-quality Ultrasonic module for distance measurement used in this project, it can measure up to a distance of 3.5-meters range, Unlike other ultrasonic sensors, there is a build-in temperature sensor for accurate ranging. This sensor can work in UART mode or GPIO mode.
-###### The code is suitable for GPIO mode , to enable GPIO you need to remove the jumper in the back
-
+###### The project is suitable for GPIO mode , to enable GPIO you need to remove the jumper in the back as shown.
 
 
 ## Understanding L298N H-bridge motor driver  
@@ -42,15 +41,16 @@
 ##### Tinkercard dosen't have L298N H-bridge , This is the arduino circuit without L298N and Dc motors
 <img src="https://user-images.githubusercontent.com/49666154/128810985-fdf2664e-83c6-4a8d-a168-b4ce82bab137.png" width="700px" >
 
-##### This is L298N circuit using different app which has simillar connction 
-<img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
-
+##### This is L298N circuit using different app which has simillar connction to the project's L298N circuit 
 ##### The only difference from this one is that the project consist of four DC motors each two connected in parallel as shown in picture 
 
+<img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
+
+# To clearify, The project consist of the two circuits 
 
 
 #
 
-## Obstacle Avoider in field
+## Obstacles Avoiding Robot in field
 https://user-images.githubusercontent.com/49666154/128778157-4c76af22-ae89-4151-b63f-5991b3715af8.mp4
 
