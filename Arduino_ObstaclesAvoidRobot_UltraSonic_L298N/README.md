@@ -19,7 +19,7 @@
 
 ##### The sensor's logic starts with the sensor head (trig pin) emits an ultrasonic wave , If it hits an object The ultrasound receiver (echo pin) receives the reflected wave. Then it measures the distance to the target by measuring the time between the emission and reception.
 
-##### Module US-100 
+#### Module US-100 
 #
 <img src="https://user-images.githubusercontent.com/49666154/128775606-cf680125-5f0a-4e25-acf3-aed08514173a.jpeg" width="380px" ><img src="https://user-images.githubusercontent.com/49666154/128776680-0c556eb4-132e-44ec-9fb7-a18aa24b4692.jpeg" width="180px" >
 
@@ -38,7 +38,8 @@
  
 
 ## Circuit Diagram - Tinkercard
-##### Tinkercard dosen't have L298N H-bridge , This is the arduino circuit without L298N and Dc motors
+##### The project diagram should contain L298N Circuit but Tinkercard dosen't offer L298N, There is other circuit attached explaning L298N connection.
+##### This is the arduino circuit without L298N and Dc motors
 <img src="https://user-images.githubusercontent.com/49666154/128810985-fdf2664e-83c6-4a8d-a168-b4ce82bab137.png" width="700px" >
 
 ##### This is L298N circuit using different app which has simillar connction to the project's L298N circuit 
