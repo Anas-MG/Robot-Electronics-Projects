@@ -40,17 +40,17 @@
  
 
 ## Circuit Diagram 
-##### in tinkercard there is no simulation for L298N Hbridge , so this is a diagram without L298N
+##### Tinkercard dosen't have L298N H-bridge , This is the arduino circuit without L298N 
 <img src="https://user-images.githubusercontent.com/49666154/128796839-eb103055-0cc1-40ef-912f-0b16a2ba85eb.png" width="600px" >
 
-##### L298N Circuit made in different app named fritzing
+##### I found a circuit for L298N made in different app named fritzing which has a simillar connction
 <img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="400px" >
 
 ##### The only difference from this one is that the project consist of four DC motors each two connected in parallel as shown in picture bellow
 
 <img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="300px" >
 
-
+#
 
 ## Obstacle Avoider in field
 https://user-images.githubusercontent.com/49666154/128778157-4c76af22-ae89-4151-b63f-5991b3715af8.mp4
