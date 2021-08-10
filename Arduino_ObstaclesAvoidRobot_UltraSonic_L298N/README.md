@@ -19,12 +19,12 @@
 
 ##### The sensor's logic starts with the sensor head (trig pin) emits an ultrasonic wave , If it hits an object The ultrasound receiver (echo pin) receives the reflected wave. Then it measures the distance to the target by measuring the time between the emission and reception.
 
-### Module US-100 
+##### Module US-100 
 #
-<img src="https://user-images.githubusercontent.com/49666154/128775606-cf680125-5f0a-4e25-acf3-aed08514173a.jpeg" width="480px" ><img src="https://user-images.githubusercontent.com/49666154/128776680-0c556eb4-132e-44ec-9fb7-a18aa24b4692.jpeg" width="201.5px" >
+<img src="https://user-images.githubusercontent.com/49666154/128775606-cf680125-5f0a-4e25-acf3-aed08514173a.jpeg" width="380px" ><img src="https://user-images.githubusercontent.com/49666154/128776680-0c556eb4-132e-44ec-9fb7-a18aa24b4692.jpeg" width="180px" >
 
 ##### It's compact, high-quality Ultrasonic module for distance measurement used in this project, it can measure up to a distance of 3.5-meters range, there is a build-in temperature sensor for accurate ranging. 
-###### This sensor can work in UART mode or GPIO mode, The project is suitable for GPIO mode , to enable GPIO you need to remove the jumper in the back as shown.
+- ###### This sensor can work in UART mode or GPIO mode, The project is suitable for GPIO mode , to enable GPIO you need to remove the jumper in the back as shown.
 
 
 ## Understanding L298N H-bridge motor driver  
@@ -46,10 +46,10 @@
 
 <img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
 
-# To clearify, The project consist of the two circuits 
+### To clearify, The project consist of the two circuits 
 
 
-#
+
 
 ## Obstacles Avoiding Robot in field
 https://user-images.githubusercontent.com/49666154/128778157-4c76af22-ae89-4151-b63f-5991b3715af8.mp4
