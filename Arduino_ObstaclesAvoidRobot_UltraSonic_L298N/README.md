@@ -23,8 +23,8 @@
 #
 <img src="https://user-images.githubusercontent.com/49666154/128775606-cf680125-5f0a-4e25-acf3-aed08514173a.jpeg" width="480px" ><img src="https://user-images.githubusercontent.com/49666154/128776680-0c556eb4-132e-44ec-9fb7-a18aa24b4692.jpeg" width="201.5px" >
 
-##### It's compact, high-quality Ultrasonic module for distance measurement used in this project, it can measure up to a distance of 3.5-meters range, Unlike other ultrasonic sensors, there is a build-in temperature sensor for accurate ranging. This sensor can work in UART mode or GPIO mode.
-###### The project is suitable for GPIO mode , to enable GPIO you need to remove the jumper in the back as shown.
+##### It's compact, high-quality Ultrasonic module for distance measurement used in this project, it can measure up to a distance of 3.5-meters range, there is a build-in temperature sensor for accurate ranging. 
+###### This sensor can work in UART mode or GPIO mode, The project is suitable for GPIO mode , to enable GPIO you need to remove the jumper in the back as shown.
 
 
 ## Understanding L298N H-bridge motor driver  
