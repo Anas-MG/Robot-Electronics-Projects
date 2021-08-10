@@ -15,13 +15,13 @@
 
 ## Understanding Ultrasonic
 ##### To understand how the robot avoid obstacles we need to understand how Ultrasonic sensors works firstly, In general Ultrasonic is small sensor that measures distance by using ultrasonic waves. (high-frequency sound 40 kHz),
-<img src="https://user-images.githubusercontent.com/49666154/128789780-a4d26741-6375-4f4c-9cf5-43eacd2d3353.jpg"  width='800'>
+<img src="https://user-images.githubusercontent.com/49666154/128789780-a4d26741-6375-4f4c-9cf5-43eacd2d3353.jpg"  width='600'>
 
 ##### In details the sensor's logic is that the sensor head (trig pin) emits an ultrasonic wave , If it hits an object The ultrasound receiver (echo pin) receives the reflected wave. Then it measures the distance to the target by measuring the time between the emission and reception.
 
 ### Module US-100 
 #
-<img src="https://user-images.githubusercontent.com/49666154/128775606-cf680125-5f0a-4e25-acf3-aed08514173a.jpeg" width="530px" ><img src="https://user-images.githubusercontent.com/49666154/128776680-0c556eb4-132e-44ec-9fb7-a18aa24b4692.jpeg" width="221.5px" >
+<img src="https://user-images.githubusercontent.com/49666154/128775606-cf680125-5f0a-4e25-acf3-aed08514173a.jpeg" width="480px" ><img src="https://user-images.githubusercontent.com/49666154/128776680-0c556eb4-132e-44ec-9fb7-a18aa24b4692.jpeg" width="201.5px" >
 
 ##### It's compact, high-quality Ultrasonic module for distance measurement used in this project, it can measure up to a distance of 3.5-meters range, Unlike other ultrasonic sensors, there is a build-in temperature sensor for accurate ranging. This sensor can work in UART mode or GPIO mode.
 ###### The code is suitable for GPIO mode , to enable GPIO you need to remove the jumper in the back
@@ -39,11 +39,11 @@
  
 
 ## Circuit Diagram - Tinkercard
-##### Tinkercard dosen't have L298N H-bridge , This is the arduino circuit without L298N 
-<img src="https://user-images.githubusercontent.com/49666154/128796839-eb103055-0cc1-40ef-912f-0b16a2ba85eb.png" width="800px" >
+##### Tinkercard dosen't have L298N H-bridge , This is the arduino circuit without L298N and Dc motors
+<img src="https://user-images.githubusercontent.com/49666154/128810985-fdf2664e-83c6-4a8d-a168-b4ce82bab137.png" width="700px" >
 
 ##### This is L298N circuit using different app which has simillar connction 
-<img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="400px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="400px" >
+<img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
 
 ##### The only difference from this one is that the project consist of four DC motors each two connected in parallel as shown in picture 
 
