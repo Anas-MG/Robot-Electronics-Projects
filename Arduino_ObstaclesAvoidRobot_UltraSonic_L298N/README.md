@@ -13,7 +13,7 @@
 ##### 8-Base, jumper wires male to female, male to male
 
 
-## How Ultrasonic can detct obstacles?
+## How Ultrasonic detct obstacles?
 
 <img src="https://user-images.githubusercontent.com/49666154/128789780-a4d26741-6375-4f4c-9cf5-43eacd2d3353.jpg"  width='600'>
 
