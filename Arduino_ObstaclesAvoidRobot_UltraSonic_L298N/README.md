@@ -42,15 +42,11 @@
 ##### This is the arduino circuit without L298N and Dc motors
 <img src="https://user-images.githubusercontent.com/49666154/128810985-fdf2664e-83c6-4a8d-a168-b4ce82bab137.png" width="700px" >
 
-##### This is L298N circuit using different app which has simillar connction to the project's L298N circuit 
-##### The only difference from this one is that the project consist of four DC motors each two connected in parallel as shown in picture 
+##### L298N circuit ,The only difference from this one is that the project consist of four DC motors each two connected in parallel as shown in picture 
 
 <img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
 
 ### To clearify, The project consist of the two circuits 
-
-
-
 
 ## Obstacles Avoiding Robot in field
 https://user-images.githubusercontent.com/49666154/128778157-4c76af22-ae89-4151-b63f-5991b3715af8.mp4
