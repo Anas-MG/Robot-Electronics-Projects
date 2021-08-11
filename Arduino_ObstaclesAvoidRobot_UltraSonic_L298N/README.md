@@ -39,11 +39,11 @@
 
 ## Circuit Diagram - Tinkercard
 > ##### The project diagram should contain L298N Circuit but Tinkercard dosen't offer L298N, There is other circuit attached explaning L298N connection.
-##### This is the arduino circuit without L298N and Dc motors
+##### Robot circuit without L298N and Dc motors
 <img src="https://user-images.githubusercontent.com/49666154/128810985-fdf2664e-83c6-4a8d-a168-b4ce82bab137.png" width="700px" >
 
 ##### L298N circuit 
-> ##### The only difference from this one is that the project consist of four DC motors each two connected in 'parallel' as shown in picture 
+> ##### The only difference here is that the project consist of four DC motors each two connected in 'parallel' to the L298N Out pins as shown in picture 
 
 <img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
 
