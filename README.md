@@ -1,4 +1,4 @@
-# Electronics section of the Robot 
+# Electronics repository of the Robot 
 ## Robot Arm Circuit
  > #### Folder: Arduino_with_servos_jstick
 ## Arduino Obstacles avoiding robot with L298NH
