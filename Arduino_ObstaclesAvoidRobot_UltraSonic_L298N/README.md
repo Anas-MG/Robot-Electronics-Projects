@@ -38,8 +38,8 @@
  
 
 ## Circuit Diagram - Tinkercard
-> ##### The project diagram should contain L298N Circuit but Tinkercard dosen't offer L298N, There is other circuit attached explaning L298N connection.
 ##### Robot circuit without L298N and Dc motors
+> ##### The project diagram should contain L298N Circuit but Tinkercard dosen't offer L298N, There is other circuit attached explaning L298N connection.
 <img src="https://user-images.githubusercontent.com/49666154/128810985-fdf2664e-83c6-4a8d-a168-b4ce82bab137.png" width="700px" >
 
 ##### L298N circuit 
