@@ -10,7 +10,7 @@
 ##### 4-Four DC motors 3-6 volts, wheels
 ##### 5-Servo motor 
 ##### 7-Two 9V batteries to power Arduino and L298N seperately 
-##### 8-Base, jumper wires male to female, male to male
+##### 8-Base, Jumper wires male to female, Male to male
 
 
 ## How Ultrasonic detct obstacles?
@@ -46,7 +46,7 @@
 
 <img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
 
-### To clearify, The project consist of the two circuits with one arduino UNO
+#### To clearify, The project consist of the two circuits with one arduino UNO and two power sources, I've seperated power sources so L298N can properly handle four DC motors.
 
 ## Obstacles Avoiding Robot in field
 https://user-images.githubusercontent.com/49666154/128778157-4c76af22-ae89-4151-b63f-5991b3715af8.mp4
