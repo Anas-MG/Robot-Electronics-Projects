@@ -1,5 +1,5 @@
 ## Obstacles Avoiding Robot 
-<img src="https://user-images.githubusercontent.com/49666154/128777013-b7dc23f8-97eb-4035-8ff5-7018e988c99e.jpeg" width="800px">
+<img src="https://user-images.githubusercontent.com/49666154/128967478-478a53ad-bff2-4247-aead-74993148c463.jpeg" width="800px">
 
 ##### This Robot is an Arduino based robot that uses Ultrasonic sensor to avoid obstacles in range. when the robot faces an obstacle in range , automatically it'll stop moving forward and takes a step back. Then it looks left & right and starts  moving to the farest side, The best use of this robot is navigating in an unknown enviroment , cleaning.
 
@@ -47,7 +47,9 @@
 
 <img src="https://user-images.githubusercontent.com/49666154/128802099-04509fea-fe68-4758-98c9-25a9d9868b3b.png" width="470px" ><img src="https://user-images.githubusercontent.com/49666154/128805047-64afe450-2185-4492-aa1d-4e82cee50793.jpeg" width="370px" >
 
-> #### To clearify, The project consist of the two circuits with one arduino UNO and two power sources, I've seperated power sources so L298N can properly handle four DC motors.
+#### To clearify, The project consist of the two circuits with one arduino UNO and two power sources as shown in picture below 
+<img src="https://user-images.githubusercontent.com/49666154/128967453-e50a5228-fb1b-4a94-ac91-587ae575cb46.jpeg" width="370px" >
+#### The power sources is seperated so L298N can properly handle four DC motors.
 
 ## Obstacles Avoiding Robot in field
 https://user-images.githubusercontent.com/49666154/128778157-4c76af22-ae89-4151-b63f-5991b3715af8.mp4
