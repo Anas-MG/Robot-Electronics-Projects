@@ -1,4 +1,4 @@
-##  Robot arm Arduino circuit
+## Arduino joystick control for servo motors
 ##### The Robot arm is planned to be four parts, From up to bottom "Wrist, Elbow, Shoulder, Base", each part has it's own servo motor 
 ##### We need the upper three servos to be at 90 degrees initially to position the arm up
 
